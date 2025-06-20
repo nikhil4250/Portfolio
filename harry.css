@@ -1,0 +1,29 @@
+.header{
+    
+    color: aliceblue;
+    background-color: black;
+}
+.content{
+    background-color: brown;
+    color: aliceblue;
+    
+
+}
+footer{
+    background-color: chartreuse;
+    color: black;
+    
+    
+    
+    
+}
+.entity{
+    text-align: center;
+    background-color: aqua;
+    
+}
+*{
+    border-radius: 20px;
+    margin: 2px;
+    height: 120px;
+}

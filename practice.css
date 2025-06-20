@@ -1,0 +1,44 @@
+.flexcontainer{
+    color: brown;
+     background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 600px;
+    align-content: right;
+    
+    
+    
+}
+.boy1{
+    width: 60px;
+    height: 60px;
+    border-style: dashed;
+    border-color: black;
+    background-color: blue;
+
+}
+.boy2{
+    width: 60px;
+    height: 60px;
+    border-style: dashed;
+    border-color: black;
+    background-color: blue;
+    
+}
+.boy3{
+    width: 60px;
+    height: 60px;
+    border-style: dashed;
+    border-color: black;
+    background-color: blue;
+
+}
+.boy4{
+    width: 60px;
+    height: 60px;
+    border-style: dashed;
+    border-color: black;
+    background-color: burlywood;
+
+}
